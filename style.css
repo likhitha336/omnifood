@@ -17,7 +17,7 @@ html, body{
     margin: 0 auto;
 }
 header{
-    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(../css/img/hero-image.avif);
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(hero-image.avif);
     background-attachment: fixed;
     height: 100vh;
     width: 99vw;
@@ -256,7 +256,7 @@ a:hover, a:active{
     transition: border-bottom 0.5s, color 0.5s;
 }
 .section-testimonials{
-    background-image:  linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)),url(../css/img/testimonial.avif);
+    background-image:  linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)),url(testimonial.avif);
     background-size: cover;
     color: white;
     background-attachment: fixed;
